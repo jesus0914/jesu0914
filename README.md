@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/jesus-villarreal-cuello-8a222a269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/jesus0914" target="_blank">
+  <a href="https://github.com/jesus0914/jesu0914/edit/main/README.md" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:jesus.villarreal@cecar.edu.co">
