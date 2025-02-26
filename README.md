@@ -75,8 +75,9 @@
 
 ## 🎵 Now Playing 🎧  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lktcheijs7wjp4w3ai5b6v5ewa&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lktcheijs7wjp4w3ai5b6v5ewa&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false" alt="Spotify Now Playing" />
 </p>
+
 
 ---
 
