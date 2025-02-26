@@ -15,7 +15,7 @@
 ## 🔗 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jesus-villarreal/" target="_blank">
+  <a href="https://www.linkedin.com/in/jesus-villarreal-cuello-8a222a269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/jesusvillarreal" target="_blank">
