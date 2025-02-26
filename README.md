@@ -6,8 +6,9 @@
 <h2 align="center">👨‍💻 Software Engineer | IoT Developer | AI Researcher | Cybersecurity Learner 🔥</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD700&size=28&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+and+Machine+Learning+Researcher;IoT+Enthusiast;Cybersecurity+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD700&size=28&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+and+Machine+Learning+Researcher;IoT+Enthusiast;Cybersecurity+Explorer&background=000000" />
 </p>
+
 
 ---
 
@@ -73,9 +74,8 @@
 ---
 
 ## 🎵 Now Playing 🎧  
-
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lktcheijs7wjp4w3ai5b6v5ewa&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false" alt="Spotify Now Playing" />
 </p>
 
 ---
